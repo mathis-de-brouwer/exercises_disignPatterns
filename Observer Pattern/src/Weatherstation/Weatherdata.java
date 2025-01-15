@@ -3,12 +3,11 @@ package Weatherstation;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Weatherdata {
+public class Weatherdata implements Subject{
     private double temp;
     private double hum;
     private double prs;
     private List<Observer> observers = new ArrayList<>();
-
 
     public void registerObserver(Observer o){
         observers.add(o);
