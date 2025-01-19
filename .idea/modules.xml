@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template Pattern/Template Pattern.iml" filepath="$PROJECT_DIR$/Template Pattern/Template Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyMock/easyMock.iml" filepath="$PROJECT_DIR$/easyMock/easyMock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercises_disignPatterns.iml" filepath="$PROJECT_DIR$/.idea/exercises_disignPatterns.iml" />
     </modules>
   </component>
